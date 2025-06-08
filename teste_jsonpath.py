@@ -18,5 +18,5 @@ notas = jsonpath.jsonpath(avaliacoes.json(), '$..avaliacao')
 print(notas)
 print(nomes)
 
-for i in range(len(notas)):
+for i in range(len(nomes)):
     print(f'{nomes[i]}: {notas[i]}')
