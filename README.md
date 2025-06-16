@@ -1,6 +1,6 @@
 # 📚 API de Cursos e Escolas - Django REST Framework
 
-Projeto simples de API utilizando Django REST Framework para gerenciamento de **Cursos**, **Escolas** e **Avaliações**.
+Projeto de API utilizando Django REST Framework para gerenciamento de **Cursos**, **Escolas** e **Avaliações**.
 
 ## 🚀 Tecnologias
 
